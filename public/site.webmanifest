@@ -1,0 +1,9 @@
+{
+  "name": "Hossamy Dash Demon List",
+  "short_name": "HD Demon List",
+  "description": "Community levels, records, and leaderboard for Hossamy Dash.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100d1c",
+  "theme_color": "#7c3aed"
+}
